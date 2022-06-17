@@ -1,0 +1,19 @@
+segment_sources:
+  IEC58D135:
+    type: origin_type
+    relation: translation
+    language: en
+  I1C9BBEC9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d4268b3950d241a582dbc0571aaedb5c:
+    IEC58D135: 70789be246fa4318a76b8d9575cbd6d5
+    I1C9BBEC9: 67633dbbba63410d942260835ac2fd7a
+  9c94790338374e2bac0f53a80d1f9ca3:
+    IEC58D135: 6b4a2272e8b340eca397a868b26c50b9
+    I1C9BBEC9: fd844372af83460fb02277b4836be2b2
+  e7c3bdcb583749d58fc3cbd1354c4a4c:
+    IEC58D135: c23c4e6b9f3e4868a19ce13e1737bf3d
+    I1C9BBEC9: 647641c033124a858c7c467f054f1ecb

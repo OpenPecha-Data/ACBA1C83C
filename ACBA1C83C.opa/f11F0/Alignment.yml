@@ -1,0 +1,34 @@
+segment_sources:
+  IEC58D135:
+    type: origin_type
+    relation: translation
+    language: en
+  I2105CA5C:
+    type: origin_type
+    relation: translation
+    language: fr
+  I1C9BBEC9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bb695539474a47ccb8aa113b2e98340a:
+    IEC58D135: bb615ad6d85f467a9b8b8643a4278aea
+    I2105CA5C: d89a203ed0ca4dcaafa196d2c12c7d3c
+    I1C9BBEC9: eb471f85fa684543a9bc22cff252eeb7
+  4e447dc463924591b64cc80f76343cc5:
+    IEC58D135: b2202ed5280b4e45b9957460ab5a9137
+    I2105CA5C: 4008485e50f240cdb942fa26008c9ec1
+    I1C9BBEC9: ce9b7a333bff433e98db7c96e8a7494b
+  a5ab47f08dde402da99c22153b9612c1:
+    IEC58D135: 6dc9138de43646b8a29cb2a8c3df03db
+    I2105CA5C: 0a8f036d7c024c29aef3b8a54d628dcf
+    I1C9BBEC9: 0e4906fa9e9d4f8db84bc2228b1962d5
+  6e639f9274494eb48b04df6ab7ceebcd:
+    IEC58D135: f98eff8218ab475aafebd7f51589b4b3
+    I2105CA5C: f768686dffa64fa08b2b6bbadfc7059b
+    I1C9BBEC9: f14043aea8334839860e1b0b7299cb56
+  a83ae3992f944ecb9f0b521bf8dbaa50:
+    IEC58D135: 3d7cdf95e50049a29cc3ec3c60ef3fb8
+    I2105CA5C: 25a6a1c358c9407e8306bb0793129f24
+    I1C9BBEC9: 5560494a2bd54e4d8cbd03174e5622d3
